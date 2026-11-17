@@ -27,11 +27,8 @@ export const PORT_FIELDS: PortField[] = [
 ];
 
 export const LANGUAGE_OPTIONS: SelectOption[] = [
-  ['zh-CN', '简体中文'],
   ['zh-TW', '繁體中文'],
   ['en', 'English'],
-  ['vi', 'Vietnamese'],
-  ['ru', 'Русский'],
 ];
 
 export const MODE_OPTIONS: SelectOption[] = [
